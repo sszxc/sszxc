@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there ! 👋🤓
+---
 
+- 🎓 I'm currently a master student in SJTU.
 - 🤖 I'm passionate about areas of Robotics.
 - 🌱 I’m currently learning reinforcement learning.
 - ✍️ [Blogger](https://sszxc.net)

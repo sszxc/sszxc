@@ -1,10 +1,10 @@
 ### Hi there ! 👋🤓
 ---
 
-- 🎓 I'm currently a master student in SJTU.
+- 🎓 I'm a master student in SJTU.
 - 🤖 I'm passionate about areas of Robotics.
-- 🌱 I’m currently learning reinforcement learning.
-- ✍️ [Blogger](https://sszxc.net)
+- 🌱 Learning reinforcement learning currently.
+- ✍️ Writing occasionally at [my blog](https://sszxc.net).
 - 🏃 Running / Badminton / Archery / Rowing / Billiards
 - 📫 Leave a comment if you have interesting stories!
 

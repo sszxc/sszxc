@@ -3,8 +3,8 @@
 
 - 🎓 I'm a master student in SJTU.
 - 🤖 I'm passionate about areas of Robotics.
-- 🌱 Learning reinforcement learning currently.
-- ✍️ Writing occasionally at [my blog](https://sszxc.net).
+- 🌱 Recently I'm learning reinforcement learning.
+- ✍️ I write occasionally at [my blog](https://sszxc.net).
 - 🏃 Running / Badminton / Archery / Rowing / Billiards
 - 📫 Leave a comment if you have interesting stories!
 

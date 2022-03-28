@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🤖 I'm passionate about areas of Robotics.
+- 🌱 I’m currently learning reinforcement learning.
+- ✍️ [Blogger](https://sszxc.net)
+- 🏃 Running / Badminton / Archery / Rowing / Billiards
+- 📫 Leave a comment if you have interesting stories!
+
 <!--
 **sszxc/sszxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

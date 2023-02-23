@@ -1,12 +1,12 @@
 ### Hi there ! 👋🤓
 ---
 
-- 🎓 I'm a master student in SJTU.
-- 🤖 I'm passionate about areas of Robotics.
-- 🌱 Recently I'm learning reinforcement learning.
-- ✍️ I write occasionally at [my blog](https://sszxc.net).
-- 🏃 Running / Badminton / Archery / Rowing / Billiards
-- 📫 Leave a comment if you have interesting stories!
+- 🎓 Master's student at SJTU, seeking a PhD position in Robotics
+- 🤖 Passionate about autonomous robots and computer vision
+- 🌱 Currently exploring the exciting world of Neural Rendering
+- ✍️ Occasional write at [my blog](https://sszxc.net)
+- 🏃 Running, cycling, badminton, archery and rowing enthusiast
+- 📫 Feel free to contact me!
 
 <!--
 **sszxc/sszxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

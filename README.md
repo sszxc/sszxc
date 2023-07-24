@@ -5,7 +5,7 @@
 - 🤖 Passionate about autonomous robots and computer vision
 - 🌱 Currently exploring the exciting world of Neural Rendering
 - ✍️ Occasional write at [my blog](https://sszxc.net)
-- 🏃 Running, cycling, badminton, archery and rowing enthusiast
+- 🚴🏻 Cycling, swimming, rowing and photography enthusiast
 - 📫 Feel free to contact me!
 
 <!--

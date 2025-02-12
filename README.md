@@ -1,10 +1,8 @@
 ### Hi there ! 👋🤓
 ---
 
-- 🎓 Master's student at SJTU, seeking a PhD position in Robotics
-- 🤖 Passionate about autonomous robots and computer vision
-- 🌱 Currently exploring the exciting world of Neural Rendering
-- ✍️ Occasional write at [my blog](https://sszxc.net)
+- 🎓 PhD student in Robotics
+- 🤖 Background spanning both hardware and software
 - 🚴🏻 Cycling, swimming, rowing and photography enthusiast
 - 📫 Feel free to contact me!
 

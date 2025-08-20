@@ -1,7 +1,7 @@
 ### Hi there ! 👋🤓
 ---
 
-- 🎓 PhD student in Robotics
+- 🎓 Researcher in Robotics
 - 🤖 Background spanning both hardware and software
 - 🚴🏻 Cycling, swimming, rowing and photography enthusiast
 - 📫 Feel free to contact me!
